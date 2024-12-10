@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on **SAP BTP, Langchain**
+- 🔭 I’m currently working on **SAP BTP, LangChain**
 - 🌱 I’m currently learning **Machine Learning and Generative AI**
 - 👯 I’m looking to collaborate on **Generative AI with SAP**
 - 🤝 I’m looking for help with **building SaaS solutions**
