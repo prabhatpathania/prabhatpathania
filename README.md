@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on **Generative AI with SAP**
 - 🤝 I’m looking for help with **building SaaS solutions**
 - 💬 Ask me about **Developer tools, SAP development solutions**
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/prabhatpathania/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prabhatpathania/)
 
